@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Niels.EXE broke, Rebooting....</title>
+    <title>Mette.exe is shutting down...</title>
     <style>
         body {
             display: flex;
@@ -24,7 +24,7 @@
 </head>
 
 <body>
-    <h1>Niels.EXE broke, Rebooting....</h1>
+    <h1>Mette.exe is shutting down...</h1>
 </body>
 
 </html>
